@@ -1,2 +1,3 @@
 rootProject.name = 'factory-pattern'
+include 'first-example'
 
